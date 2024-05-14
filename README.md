@@ -1,1 +1,1 @@
-# Cálculo de áreas feito em c#
+# Cálculo de áreas feito em C#
